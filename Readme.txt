@@ -1,3 +1,5 @@
-Its A Model Of Website worked
+Its the first attempt to a website
+
+done for college project absttract
 
 Copywrited by BVoc Dept,SMC
