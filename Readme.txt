@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Its A Model Of Website worked
 
-Template Name: Mentor
-Template URL: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Copywrited by BVoc Dept,SMC
